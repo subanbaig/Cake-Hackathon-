@@ -1,0 +1,16 @@
+.header{
+    background-color: #0A0A0A;
+}
+.sec-1{
+    background-image: url(https://preview.colorlib.com/theme/cakeshop/assets/img/hero/h1_hero1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 9%;
+    background-position: absolute;
+}
+.nav-1{
+    position: relative;
+    margin-left: 38%;
+    padding: 2%;
+    
+}
